@@ -1,0 +1,27 @@
+{
+  "avoid": [
+    "Arise",
+    "arise",
+    "ARISE",
+    "Level Up",
+    "level up",
+    "levelup",
+    "Solo Leveling",
+    "solo leveling",
+    "llc.sololeveling",
+    "llc.sololeveling.Arise"
+  ],
+  "app_store": {
+    "name": "Kinet",
+    "subtitle": "Fitness RPG: macros + AI",
+    "promotional_text": "Free forever. Macro tracking + AI coaching. No subscription, no invite loops.",
+    "description": "Kinet is the free, offline-first fitness RPG that tracks your workouts, nutrition, and progress — all without a subscription.\n\nWHAT YOU GET\n• Complete workout tracker — 60+ exercises with GIFs/videos, custom exercises, superset support\n• Built-in nutrition — calorie & macro tracking, meal logging, AI insights connecting food to performance\n• Smart progress charts — weekly volume, personal records, muscle distribution, streak tracking\n• AI post-workout analysis — volume trends, fatigue signals, protein adequacy, next-week suggestions\n• Safety first — pause/stop/resume any workout, no progress lost to injury or sickness\n• Offline-first — all features work offline, sync when online (optional cloud sync)\n• Free forever — no subscription, no invite loops, no feature gates\n\nTHE PROBLEM WE SOLVED\nMost fitness apps gate core features behind subscriptions. The leading app forces you to pay or invite 3 friends before your first workout. Kinet gives you everything free — because your progress shouldn't be behind a paywall.\n\nNUTRITION MEETS RPG\nMost fitness trackers ignore nutrition. Kinet logs calories, macros, meals — then AI connects your protein intake to your PRs. Your nutrition finally fuels your RPG progression.\n\nSAFETY FIRST\nInjured? Sick? Tap Pause. Resume tomorrow or discard. No progress lost. Your body, your rules.\n\nOFFLINE-FIRST\nAll features work without internet. Your data stays on your device. Optional manual backup keeps devices in sync.\n\nFREE FOREVER\nNo subscription. No invite loops. No feature gates. \n\nPRIVACY FIRST\nYour data, your device. Export anytime as CSV/JSON. Delete account anytime — wiped in 24 hours. No tracking, no ads.\n\nJOIN THOUSANDS OF LIFTERS\nKinet: Free fitness RPG with macro tracking, AI coaching, and offline workouts. Download free today.",
+    "keywords": "fitness,workout,tracker,gym,lifting,nutrition,macros,rpg,offline,coaching,strong,hevy,jefit",
+    "whats_new": "Version 1.0 — Kinet launches! Free fitness RPG with macro tracking, AI coaching, and offline-first design. No subscription. No invite loops. Just lift."
+  },
+  "google_play": {
+    "title": "Kinet: Fitness RPG & Macros",
+    "short_description": "Fitness RPG with macros, AI coach, offline workouts. No subscription.",
+    "full_description": "Kinet is the free, offline-first fitness RPG that tracks your workouts, nutrition, and progress — all without a subscription.\n\nWHAT YOU GET\n• Complete workout tracker — 60+ exercises with GIFs/videos, custom exercises, superset support\n• Built-in nutrition — calorie & macro tracking, meal logging, AI insights connecting food to performance\n• Smart progress charts — weekly volume, personal records, muscle distribution, streak tracking\n• AI post-workout analysis — volume trends, fatigue signals, protein adequacy, next-week suggestions\n• Safety first — pause/stop/resume any workout, no progress lost to injury or sickness\n• Offline-first — all features work offline, sync when online (optional cloud sync)\n• Free forever — no subscription, no invite loops, no feature gates\n\nTHE PROBLEM WE SOLVED\nMost fitness apps gate core features behind subscriptions. The leading app forces you to pay or invite 3 friends before your first workout. Kinet gives you everything free — because your progress shouldn't be behind a paywall.\n\nNUTRITION MEETS RPG\nMost fitness trackers ignore nutrition. Kinet logs calories, macros, meals — then AI connects your protein intake to your PRs. Your nutrition finally fuels your RPG progression.\n\nSAFETY FIRST\nInjured? Sick? Tap Pause. Resume tomorrow or discard. No progress lost. Your body, your rules.\n\nOFFLINE-FIRST\nAll features work without internet. Your data stays on your device. Optional manual backup keeps devices in sync.\n\nFREE FOREVER\nNo subscription. No invite loops. No feature gates. \n\nPRIVACY FIRST\nYour data, your device. Export anytime as CSV/JSON. Delete account anytime — wiped in 24 hours. No tracking, no ads.\n\nJOIN THOUSANDS OF LIFTERS\nKinet: Free fitness RPG with macro tracking, AI coaching, and offline workouts. Download free today."
+  }
+}

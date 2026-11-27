@@ -1,0 +1,45 @@
+{
+  "name": "Kinet",
+  "tagline": "Forge your motion.",
+  "avoid": [
+    "Arise",
+    "arise",
+    "ARISE",
+    "Level Up",
+    "level up",
+    "levelup",
+    "Solo Leveling",
+    "solo leveling",
+    "llc.sololeveling",
+    "llc.sololeveling.Arise"
+  ],
+  "domains": [
+    "arise.com",
+    "sololeveling.com"
+  ],
+  "colors": {
+    "original": {
+      "primary": ["#E85D04", "#F97316"],
+      "muted": ["#FFF0E6", "#3D1F00"]
+    },
+    "brand": {
+      "primary": ["#06B6D4", "#22D3EE"],
+      "muted": ["#CFFAFE", "#164E63"]
+    }
+  },
+  "checks": {
+    "us_trademark": "tmsearch.uspto.gov (Class 9, 42)",
+    "eu_trademark": "euipo.europa.eu eSearch",
+    "canada_trademark": "ised-isde.canada.ca",
+    "global_trademark": "WIPO Global Brand Database",
+    "domain_com": "whois kinet.com",
+    "domain_app": "whois kinet.app",
+    "app_store": "Search 'Kinet'",
+    "google_play": "Search 'Kinet'",
+    "x_handle": "@kinet",
+    "instagram_handle": "@kinet",
+    "tiktok_handle": "@kinet",
+    "github_handle": "github.com/kinet",
+    "web_search": "\"Kinet fitness app\""
+  }
+}
