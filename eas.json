@@ -4,7 +4,10 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
-      "android": { "gradleCommand": ":app:assembleDebug" }
+      "android": {
+        "gradleCommand": ":app:assembleDebug",
+        "javaVersion": "17"
+      }
     },
     "production": {
       "android": { "buildType": "apk" }
