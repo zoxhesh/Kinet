@@ -4,10 +4,8 @@
     "development": {
       "developmentClient": true,
       "distribution": "internal",
-      "android": {
-        "gradleCommand": ":app:assembleDebug",
-        "javaVersion": "17"
-      }
+      "javaVersion": "17",
+      "android": { "gradleCommand": ":app:assembleDebug" }
     },
     "production": {
       "android": { "buildType": "apk" }
